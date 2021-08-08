@@ -4276,8 +4276,8 @@ process.umask = function() { return 0; };
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/anton/Projects/watchdog/resources/views/themes/tailwind/assets/js/app.js */"./assets/js/app.js");
-module.exports = __webpack_require__(/*! /home/anton/Projects/watchdog/resources/views/themes/tailwind/assets/sass/app.scss */"./assets/sass/app.scss");
+__webpack_require__(/*! /home/anton/Projects/Archived/watchdog/resources/views/themes/tailwind/assets/js/app.js */"./assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/anton/Projects/Archived/watchdog/resources/views/themes/tailwind/assets/sass/app.scss */"./assets/sass/app.scss");
 
 
 /***/ })
